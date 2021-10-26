@@ -243,7 +243,7 @@ public class MainStudent extends Application
                 }
             }
             else
-                CommonDialog.WarningDialog("只有《教务员》才能设置系统资料 !"); 	
+                CommonDialog.WarningDialog("只有《管理员》才能设置系统资料 !");
         });
         
 
